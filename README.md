@@ -1,1 +1,1 @@
-# Gaussian_Clock_Cluster.jl
+# Gaussian_Clock_Cluster
